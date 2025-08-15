@@ -1,1 +1,0 @@
-# pysphere-assignment-1
